@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="t1module">
+    <module_version install_time="1529874205207" last="true" origin="installer" specification_version="1.0">
+        <file crc="412559234" name="config/Modules/t1module.xml"/>
+        <file crc="742517540" name="modules/t1module.jar"/>
+    </module_version>
+</module>

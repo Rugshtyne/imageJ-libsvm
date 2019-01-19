@@ -1,0 +1,9 @@
+C:\Program Files\NetBeans 8.2\platform=1523197903050
+cluster.C:/Users/Leonas/Documents/NetBeansProjects/t1/build/cluster=1547929960847
+cluster.C:/Program Files/NetBeans 8.2/platform=1523197903050
+user=1547929960847
+crc=7
+locale=en_US
+branding=t1
+java.version=1.8.0_161
+java.vm.version=25.161-b12

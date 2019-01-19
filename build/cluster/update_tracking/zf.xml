@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="zf">
+    <module_version install_time="1547929959612" last="true" origin="installer" specification_version="1.0">
+        <file crc="628895744" name="config/Modules/zf.xml"/>
+        <file crc="1563554483" name="modules/ext/ij.jar"/>
+        <file crc="2646522025" name="modules/zf.jar"/>
+    </module_version>
+</module>
